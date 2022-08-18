@@ -16,8 +16,4 @@
     <ProjectReference Include="..\CleanArchExample.Domain\CleanArchExample.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Data\Migrations\" />
-  </ItemGroup>
-
 </Project>
