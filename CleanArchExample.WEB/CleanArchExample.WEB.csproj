@@ -13,4 +13,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchExample.Infra.Data\CleanArchExample.Infra.Data.csproj" />
+    <ProjectReference Include="..\CleanArchExample.Infra.IoC\CleanArchExample.Infra.IoC.csproj" />
+  </ItemGroup>
+
 </Project>
