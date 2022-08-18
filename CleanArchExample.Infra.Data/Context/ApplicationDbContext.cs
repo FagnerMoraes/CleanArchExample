@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CleanArchExample.WEB.Data
+namespace CleanArchExample.Infra.Data.Context
 {
     public class ApplicationDbContext : IdentityDbContext
     {

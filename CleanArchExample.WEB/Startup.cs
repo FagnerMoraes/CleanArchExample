@@ -1,4 +1,4 @@
-using CleanArchExample.WEB.Data;
+using CleanArchExample.Infra.Data.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
