@@ -1,4 +1,4 @@
-using CleanArchExample.Infra.Data;
+using CleanArchExample.Infra.IoC;
 using CleanArchExample.Infra.Data.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
